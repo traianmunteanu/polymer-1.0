@@ -277,3 +277,10 @@ textarea {
         page-break-after: avoid;
     }
 }
+
+google-map {
+    margin: 50px auto 0;
+    width: 800px;
+    height: 600px;
+
+}
