@@ -1,0 +1,21 @@
+{
+  "name": "polymer-1.0",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Traian Munteanu <hello@traianmunteanu.com>"
+  ],
+  "license": "ISC",
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.0.0"
+  }
+}
